@@ -23,20 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um video IA sobre um monologo sobre bananas!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+    https://chatgpt.com/
+    https://elevenlabs.io/
+    https://lexica.art/
+    https://app.heygen.com/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o chatgpt para criar o monologo, então usei a lexica para achar uma imagem,
+com o elevenlabs eu transformei o texto em voz e juntei tudo no heygen para fazer o video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Um video que segue o que foi proposto, um pequeno monologo sobre bananas, usando IA generativas.
 
 ### Exemplos e Insigths
 
